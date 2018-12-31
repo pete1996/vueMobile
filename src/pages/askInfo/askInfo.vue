@@ -6,7 +6,7 @@
     <div class="main-info">
       <div class="askinfo">
         <div class="question-title">
-          {{info.ZXBT}}
+          {{info.ZXBT}}<!--尝试改一个字-->
         </div>
         <div class="tipslist">
           <div class="area">{{info.ZXQMC}}</div>
